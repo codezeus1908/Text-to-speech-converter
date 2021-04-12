@@ -1,0 +1,15 @@
+*
+{
+    margin:0;
+    padding: 0;
+    background-color: #141414;
+}
+.container
+{
+    padding-top:50px;
+    width:100%;
+}
+.row
+{
+    margin-top:10rem;
+}
